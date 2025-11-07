@@ -1,13 +1,13 @@
-# Flux
+# Fluxo
 
-**Flux** is a dead-simple Kanban web app with one mission: be clean, straightforward, and brutally efficient for personal tasks and projects.
+**Fluxo** is a dead-simple Kanban web app with one mission: be clean, straightforward, and brutally efficient for personal tasks and projects.
 
 I needed a tool that just works — no bloat, no visual noise, no features I'll never use. Nothing out there fit. So I built it myself.
 
 If you want enterprise bells, team collab, or 50 integrations, go use Trello, Notion, or Jira.  
-Flux does **one thing** and does it right: minimal personal Kanban.
+Fluxo does **one thing** and does it right: minimal personal Kanban.
 
-### Why Flux?
+### Why Fluxo?
 - Zero bloat, zero trackers
 - Powerful filters (board-wide or per-column)
 - Fully free · open source · PWA-ready
