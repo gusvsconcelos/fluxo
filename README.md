@@ -13,10 +13,5 @@ Fluxo does **one thing** and does it right: minimal personal Kanban.
 - Fully free · open source · PWA-ready
 - Runs offline, fits in your pocket
 
-### Stack
-- Frontend: React + TypeScript + Vite
-- Backend: NestJS + Prisma + PostgreSQL (Neon)
-- Deploy: Railway / Render (free tier)
-
 ### License
 MIT © 2025 GUSTAVO VASCONCELOS
